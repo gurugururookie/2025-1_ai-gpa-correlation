@@ -34,7 +34,8 @@ Raw data is not publicly included due to privacy concerns.
 ## 📂 파일 구성
 
 | 폴더/파일 | 설명 |
-
+social_survey_result_dummied.csv /  더미 처리된 서베이 수집 결과입니다.
+SocialAnalysis.ipynb  /  서베이에 대한 통계분석 결과입니다.
 
 ## 📝 참고
 
